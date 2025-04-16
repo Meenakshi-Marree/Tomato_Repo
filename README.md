@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tomato-Leaf-Disease-Detection-
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg)![Keras](https://img.shields.io/badge/Keras-yellow.svg)![Tensorflow](https://img.shields.io/badge/Tensorflow-cyan.svg)
@@ -36,3 +37,6 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 
 ## Please do ⭐ the repository, if it helped you in anyway.
+=======
+# Tomato_Repo
+>>>>>>> 5c6fdd494e24f18258ba026cd23bacdcbfe0daa8
